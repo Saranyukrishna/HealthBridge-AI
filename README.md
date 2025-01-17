@@ -19,10 +19,10 @@ Motivation:
 Early diagnosis of diseases such as brain stroke, obesity, and depression can significantly improve treatment outcomes. This project aims to provide a reliable tool to assist healthcare professionals and individuals in identifying potential health risks.
 
 Technologies Used:
-Python
 
-Machine Learning: XGBoost, Random Forest, Decision Trees, Neural Networks
-Libraries: Pandas, Scikit-learn, TensorFlow/Keras, Matplotlib, Seaborn
-Tools: Jupyter Notebook, GitHub for version control
+Python
+Machine Learning: XGBoost, Random Forest, Decision Trees
+Libraries: Pandas, Scikit-learn,Numpy, Matplotlib, Seaborn
+Tools: Jupyter Notebook
 
 Here is the implementation and Deplyment in Streamlit:
