@@ -20,6 +20,7 @@ Early diagnosis of diseases such as brain stroke, obesity, and depression can si
 
 Technologies Used:
 Python
+
 Machine Learning: XGBoost, Random Forest, Decision Trees, Neural Networks
 Libraries: Pandas, Scikit-learn, TensorFlow/Keras, Matplotlib, Seaborn
 Tools: Jupyter Notebook, GitHub for version control
