@@ -6,7 +6,7 @@ from streamlit_option_menu import option_menu
 st.title("HealthBridge-AI")
 with st.sidebar:
     selected = option_menu("Choose Model",
-                           ["Obesity", "Depression", "Brain Stroke"],
+                           ["Obesity", "Depression", "Stroke"],
                            icons=['person', 'heart', 'brain'],
                            menu_icon="cast",
                            default_index=0,
