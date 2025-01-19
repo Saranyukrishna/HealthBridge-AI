@@ -28,7 +28,7 @@ if selected == 'Depression':
     age = st.number_input('Age', min_value=0, value=0)
     work_pressure = st.slider('Work Pressure', min_value=0, max_value=5, value=0)
     job_satisfaction = st.slider('Job Satisfaction', min_value=0, max_value=5, value=0)
-    work_hours = st.slider('Work Hours', min_value=0, max_value=12, value=0)
+    work_hours = st.slider('Work Hours', min_value=0, max_value=15, value=0)
     financial_stress = st.slider('Financial Stress', min_value=0, max_value=5, value=0)
     gender = st.selectbox('Gender', ['Male', 'Female'], index=None)
     sleep_duration = st.selectbox('Sleep Duration', ['7-8 hours', '5-6 hours', 'More than 8 hours', 'Less than 5 hours'], index=None)
