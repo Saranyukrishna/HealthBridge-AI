@@ -43,8 +43,8 @@ if selected == 'Depression':
             st.error("Work Pressure should be between 0 and 5.")
         elif job_satisfaction not in range(0, 6):
             st.error("Job Satisfaction should be between 0 and 5.")
-        elif work_hours not in range(0, 13):
-            st.error("Work Hours should be between 0 and 12.")
+        elif work_hours not in range(0, 16):
+            st.error("Work Hours should be between 0 and 15.")
         elif financial_stress not in range(0, 6):
             st.error("Financial Stress should be between 0 and 5.")
         elif gender is None:
