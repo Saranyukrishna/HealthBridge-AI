@@ -185,7 +185,7 @@ elif selected == 'Stroke':
                     'smoking_status': [mappings['Smoking Status'][smoking_status]]
                 })
 
-                model = joblib.load('brain_stroke.pkl')
+                model = joblib.load('stroke.pkl')
                 prediction = model.predict(input_data)
 
                 if prediction[0] == 1:
