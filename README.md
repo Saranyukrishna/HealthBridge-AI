@@ -6,7 +6,7 @@ By leveraging advanced classification algorithms, the model will help in proacti
 
 Key Features:
 
-Disease Classification: Predicts the risk of Brain Stroke, Obesity, and Depression based on health data.
+Disease Classification: Predicts the risk of Heart Stroke, Obesity, and Depression based on health data.
 
 Data-Driven Approach: Utilizes a variety of features such as age, gender, physical activity level, and other lifestyle factors.
 
